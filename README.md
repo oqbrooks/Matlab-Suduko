@@ -1,6 +1,7 @@
 # Matlab-Suduko
 
 Quick and easy implementation of Suduko in Matlab.
+Is playable, but could be much more efficent.
 
 Future Improvements:
   1. Add suduko solver
