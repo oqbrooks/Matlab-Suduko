@@ -9,3 +9,5 @@ Future Improvements:
   3. Add more boards 
   4. Organize boards by difficulty
   5. Add UI
+
+Repository include PowerPoint created by another student explaining the code.
