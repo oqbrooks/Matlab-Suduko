@@ -11,3 +11,5 @@ Future Improvements:
   5. Add UI
 
 Repository include PowerPoint created by another student explaining the code.
+
+![alt text](screenshot.png "Sample Screenshot")
