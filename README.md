@@ -1,4 +1,4 @@
-# Matlab-Suduko
+# matlab-suduko
 
  > quick and easy implementation of Suduko in Matlab
  
